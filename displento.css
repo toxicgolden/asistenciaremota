@@ -1,0 +1,24 @@
+body {
+  background: lightblue url("../img/background.jpg") fixed center;
+  background-repeat: no-repeat;
+  background-size: 13000px 3000px;
+}
+
+
+/* desde aqui empieza la barra de navegacion */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,300,300italic,900italic,900,700,700italic,500italic,500,400italic);
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+.general{
+  background: #585858;
+    border-radius: 3px;
+    overflow: hidden;
+    height: 400px;
+    margin-bottom: 10px;
+    display: block;
+    color: inherit;
+    text-decoration: none;
+    position: relative;
+}
