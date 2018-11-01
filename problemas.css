@@ -1,5 +1,5 @@
 body {
-  background: lightblue url("../img/background.jpg") fixed center;
+  background: lightblue url("background.jpg") fixed center;
   background-repeat: no-repeat;
   background-size: 13000px 3000px;
 }
@@ -15,7 +15,7 @@ body {
     padding-bottom: 50px;
 	background: url("") no-repeat fixed center center;
     background-size: 100% auto;
-  background: lightblue url("../img/background.jpg") fixed center;
+  background: lightblue url("background.jpg") fixed center;
   background-repeat: no-repeat;
   background-size: 13000px 3000px;
 
